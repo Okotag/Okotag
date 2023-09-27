@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Okotag
+- 👋 Hi, I’m @Okota Casa
 - 👀 I’m interested in Saving the Earth
-- 🌱 I’m currently learning Digital Currency
-- 💞️ I’m looking to collaborate on NFT, Bitcoin, Digital currency
+- 🌱 I’m currently learning green Digital Currency
+- 💞️ I’m looking to collaborate on internet security, NFT, Bitcoin, Digital currency
 - 📫 How to reach me Linkup
 
 <!---
