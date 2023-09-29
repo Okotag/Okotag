@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Okota Casa
+- 👋 Hi, I’m Okota Casa
 - 👀 I’m interested in Saving the Earth
-- 🌱 I’m currently learning green Digital Currency
-- 💞️ I’m looking to collaborate on internet security, NFT, Bitcoin, Digital currency
-- 📫 How to reach me Linkup
+- 🌱 I’m currently learning Green Digital Currency
+- 💞️ I’m looking to collaborate on Internet Security, NFT, Bitcoin, Digital currency
+- 📫 How to reach me okotag@proton.me
 
 <!---
 Okotag/Okotag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
